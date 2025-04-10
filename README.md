@@ -45,7 +45,7 @@ The dashboard uncovers:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](./Zomato Dashboard.png)
+![Dashboard Screenshot](./Zomato-Dashboard.png)
 
 
 ---
